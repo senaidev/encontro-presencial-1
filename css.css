@@ -1,0 +1,157 @@
+*{
+    font-family: 'PT Serif', serif;
+    text-decoration: none;
+    }
+    
+    .logo {
+    width: 50px;
+    height: 40px;
+    border-radius: 20px;
+    margin: 0 50px 30px 0;
+    }
+    
+    .inicio{
+    margin: 0px 30px 10px 0;
+    font-size: 30px;
+    color: black;
+    border: none;
+    }
+    
+    .jogos{
+    margin: 0px 30px 10px 0;
+    font-size: 30px;
+    color: black;
+    }
+    
+    .consoles{
+    margin: 0px 30px 10px 0;
+    font-size: 30px;
+    color: black;
+    }
+    
+    input{
+    margin: 0px 10px 30px 250px;
+    width: 270px;
+    height: 30px;
+    border-radius: 7px;
+    }
+    
+    .login{
+    margin: 20px 10px 0 50px;
+    width: 50px;
+    height: 40px;
+    }
+    
+    .carrinho{
+    margin: 20px 10px 0 0px;
+    width: 50px;
+    height: 40px;
+    }
+    
+    .barra-logo{
+    background: rgb(219, 219, 219);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(0,77,255,1) 50%, rgba(0,219,255,1) 100%);
+    display: flexbox;
+    }
+    
+    .barra-nome{
+    text-align: center;
+    font-size: 10px;
+    }
+    
+    .tela-principal{
+    width: 1250;
+    height: 600;
+    }
+    
+    .texto-tela-principal{
+    text-align: center;
+    color: red;
+    }
+    
+    .ajuste{
+    width: 250px;
+    height: 250px;
+    }
+    
+    .ui{
+    width: 350px;
+    height: 250px;
+    border-radius: 10px;
+    
+    }
+    
+    .contatos{
+    text-align: center;
+    }
+    
+    .rodape{
+    text-align: center;
+    border: ridge;
+    }
+    .msg{
+    margin: 0 0 0 1080px;
+    }
+    
+    p{
+    text-align: center;
+    }
+    
+    .oferta{
+    text-align: center;
+    }
+    
+    .botao-verde{
+    background: green;
+    color: white;
+    }
+    
+    .primeiro-linha{
+    text-align: center;
+    }
+    
+    .segunda-linha{
+    margin: 10px 200px 0 500px;
+    }
+    
+    .terceira-linha{
+    margin: 10px 200px 0 600px;
+    border-radius: 10px ;
+    background: green;
+    color: black;
+    cursor: pointer;
+    }
+    
+    .registration-box{
+    position: absolute;
+    top: 250px;
+    left: 800px;
+    padding: 1 30px;
+    }
+    
+    .click{
+    color: black;
+    background: green;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+    }
+
+    .games{
+        text-align: center;
+        color: black;
+        font-size: 30px;
+        }
+
+        .pri{
+            display: inline-block;
+            margin: 15px 20px 30px 70px;
+            border-radius: 10px;
+            }
+    
+            .pri{
+                text-align: center;
+                }
+                
+               
